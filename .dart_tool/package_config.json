@@ -236,6 +236,12 @@
       "languageVersion": "2.1"
     },
     {
+      "name": "syncfusion_flutter_calendar",
+      "rootUri": "file:///Users/mac/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/syncfusion_flutter_calendar-18.4.44",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
       "name": "syncfusion_flutter_charts",
       "rootUri": "file:///Users/mac/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/syncfusion_flutter_charts-18.4.44",
       "packageUri": "lib/",
@@ -326,6 +332,12 @@
       "languageVersion": "2.10"
     },
     {
+      "name": "timezone",
+      "rootUri": "file:///Users/mac/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/timezone-0.6.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.1"
+    },
+    {
       "name": "typed_data",
       "rootUri": "file:///Users/mac/Documents/flutter/.pub-cache/hosted/pub.dartlang.org/typed_data-1.3.0-nullsafety.3",
       "packageUri": "lib/",
@@ -392,13 +404,13 @@
       "languageVersion": "2.7"
     },
     {
-      "name": "syncfusion_flutter_calendar",
+      "name": "flutter_examples",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.1"
     }
   ],
-  "generated": "2021-02-23T12:53:16.270586Z",
+  "generated": "2021-02-23T12:55:34.702571Z",
   "generator": "pub",
   "generatorVersion": "2.10.5"
 }
